@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently learning **c++**
 
-- 🌱 I’m currently learning **c++,python,etc**
+- 🌱 I’m learning **c++,python,etc**
 
 - 📫 How to reach me **singhpranav431@gmail.com**
 
