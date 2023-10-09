@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi!👋, I'm Pranav Singh</h1>
-<h3 align="center">A passionate student from India</h3>
+<h3 align="center">A passionate student from IIT Ropar</h3>
 <img align="right"width="400"src="https://media.tenor.com/lUz4kjz72FUAAAAd/yatora-yaguchi-yaguchi-yatora.gif">
 
 - 🔭 I’m currently learning **c++.**
