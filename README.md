@@ -1,38 +1,74 @@
-<h1 align="center">Hi 👋, I'm Pranav Singh</h1>
-<h3 align="center">AI Systems • Generative AI • Scientific ML • Full-Stack AI Products</h3>
-<h4 align="center">Student @ IIT Ropar</h4>
-
-<img align="right" width="400" src="https://media.tenor.com/lUz4kjz72FUAAAAd/yatora-yaguchi-yaguchi-yatora.gif">
-
-I build AI systems spanning research, full-stack products, and applied machine learning.
-
-**Currently exploring:**  
-→ Generative AI & LLM Systems  
-→ Scientific ML (PINNs, UQ)  
-→ MLOps & Cloud Deployment  
-
-- 🌱 Currently exploring MLOps, cloud deployment, and scalable AI system design
-
-- 📫 How to reach me: **singhpranav431@gmail.com**
-
----
-
-### 🚀 Featured Projects
-
-- **Physics-Informed Neural Networks (PINNs)** - inverse modeling with passivity constraints
-- **Replai** — AI conversation assistant (FastAPI + React + Supabase)
-- **Multi-Agent Job Screening System** — LLM agents + embeddings pipeline
-- **Hybrid LSTM-GARCH Option Pricing** — quantitative finance modeling
-- **FOA Scraper** — engineering screening project
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pranav-singh-8868a1283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-singh-8868a1283" height="30" width="40" /></a>
+<h1 align="center">Pranav Singh</h1>
+<h3 align="center">AI Systems | Probabilistic ML | Full-Stack AI Products</h3>
+<p align="center">
+  Student @ IIT Ropar &nbsp;|&nbsp; singhpranav431@gmail.com
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/pranav-singh-8868a1283">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://pypi.org/project/nous-state/">
+    <img src="https://img.shields.io/pypi/v/nous-state?label=nous-state&color=blue" />
+  </a>
+  <a href="https://github.com/Pranavsingh431/nous-state">
+    <img src="https://img.shields.io/github/stars/Pranavsingh431/nous-state?style=flat&color=yellow" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavsingh431&" alt="pranavsingh431" /></p>
+---
+
+I build AI systems at the intersection of research and production. My work spans probabilistic machine learning, LLM systems, scientific ML, and applied full-stack AI products.
+
+Current focus areas:
+
+- Probabilistic memory systems for autonomous AI agents
+- Physics-informed neural networks and uncertainty quantification
+- Scalable LLM pipelines and MLOps
+
+---
+
+## Open Source
+
+### [nous-state](https://github.com/Pranavsingh431/nous-state) &nbsp; `pip install nous-state`
+
+A probabilistic memory engine for long-running AI agents. Instead of storing facts, it maintains Bayesian belief distributions over entity attributes and resolves contradictions mathematically using surprise-driven updates and immutable delta logs.
+
+- Zero runtime dependencies (pure Python stdlib)
+- Surprise scoring via Shannon self-information: `S = -log2(P(observed | model))`
+- Principled forgetting via entropy decay
+- Full audit trail with time-travel queries
+
+> Built because vector databases have no principled way to handle belief revision when an agent's knowledge of a user changes over time.
+
+---
+
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **NyayaSahayak** | AI legal assistant for Indian law | LLMs, FastAPI, RAG |
+| **Physics-Informed Neural Networks** | Inverse modeling with passivity constraints and uncertainty quantification | PyTorch, JAX |
+| **Replai** | AI conversation assistant | FastAPI, React, Supabase |
+| **Multi-Agent Job Screening** | LLM agent pipeline with embedding-based candidate ranking | LangChain, Embeddings |
+| **Hybrid LSTM-GARCH Option Pricing** | Quantitative finance model combining deep learning and volatility modeling | PyTorch, statsmodels |
+
+---
+
+## Skills
+
+**ML / AI:** PyTorch, TensorFlow, scikit-learn, LLM APIs, RAG, PINNs, Bayesian inference
+
+**Systems:** Python, FastAPI, Flask, SQLite, Docker, REST APIs
+
+**Frontend:** React, JavaScript
+
+**Infrastructure:** AWS, GCP, Linux, Git, MLOps
+
+**Other:** C, C++, MATLAB, OpenCV, MongoDB, MySQL
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavsingh431&hide_border=true" />
+</p>
